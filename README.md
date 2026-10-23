@@ -1,12 +1,12 @@
 # jescaamondi
 
-## 🌠 About Me
+## About Me
 
-👋 Hi, I'm **Jesca Amondi**, a junior software engineer from Nairobi, Kenya.  
-👀 I started coding because I wanted to understand how technology works and explore beyond the path I knew.  
-🌱 I enjoy learning by building software that can be useful to people and communities.  
-🎓 I'm studying Software Engineering through AkiraChix's codeHive programme.  
-🤝 I'm looking for a junior engineering opportunity where I can contribute, learn, and grow.
+Hello, I am **Jesca Amondi**, a junior software engineer from Nairobi, Kenya.  
+I started coding because I wanted to understand how technology works and explore beyond the path I knew.  
+I enjoy learning by building software that can be useful to people and communities.  
+I am studying Software Engineering through AkiraChix's codeHive programme.  
+I am looking for a junior engineering opportunity where I can contribute, learn, and grow.
 
 ## 🌐 Socials
 
